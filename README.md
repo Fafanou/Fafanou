@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fafanou
+- 👋 Hi, I’m Fanny
 - 👀 I’m interested in Web Programing
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on new projects
